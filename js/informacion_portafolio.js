@@ -1,4 +1,4 @@
-fetch('js/informacion.json')
+window.onload = function() {fetch('js/informacion.json')
    .then(response => response.json())
    .then(data => {
       // Actualizar contenido HTML con datos del archivo JSON
@@ -16,3 +16,4 @@ fetch('js/informacion.json')
       document.getElementById('model').textContent = data.model;
       document.getElementById('camera').textContent = data.camera;
    }).catch(error => console.error('Error al cargar el archivo JSON', error));
+}

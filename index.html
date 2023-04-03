@@ -85,13 +85,13 @@
                             <div class="gallery-items sf_true">
                                 <div class="gallery-items-container fl-wrap">
                                     <!-- gallery-item -->
-                                    <div class="gallery-item nature">
+                                    <div class="gallery-item outdoor">
                                         <div class="hov_box">
                                             <img src="images/folio/1.jpg" alt="">
                                             <div class="overlay"></div>
                                             <div class="hov_box-title">
-                                                <a href="portfolio-single.html" class="ajax">Alone on Nature.</a>
-                                                <div class="cat_item">Nature</div>
+                                                <a  class="ajax" onclick="recargarPagina()">Happy Flashbacks</a>
+                                                <div class="cat_item">Models</div>
                                             </div>
                                         </div>
                                     </div>
@@ -347,6 +347,12 @@
         <script src="js/plugins.js"></script>
         <script src="js/scripts.js"></script>
         <script src="js/informacion_portafolio.js"></script>
-        
+     
+        <script>
+        function recargarPagina() {
+            window.location.href = './portfolio-single.html?timestamp=' + new Date().getTime();
+          }     
+          </script>
     </body>
+
 </html>
