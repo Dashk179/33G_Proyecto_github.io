@@ -1,5 +1,5 @@
 [{
-   "title": "Snowy Mountains Journey",
+   "title": "Proyecto 1",
    "description": [
       "Nulla scelerisque, enim id elementum suscipit, magna odio fermentum arcu, nec dictum nibh nibh et magna.",
       "Praesent nec leo venenatis elit semper aliquet id ac enim. Maecenas nec mi leo. Etiam venenatis ut dui non hendrerit. Integer dictum, diam vitae blandit accumsan, dolor odio tempus arcu, vel ultrices nisi nibh vitae ligula.",
@@ -11,43 +11,53 @@
    "camera": "Canon 6d"
 },
 {
-   "title": "2",
+   "title": "Proyecto 2",
    "description": [
-      "xd"
+      "XXXX-2"
    ],
-   "location": "xd",
-   "category": "Txd",
-   "model": "asd",
-   "camera": "as"
+   "location": "XXXX-2",
+   "category": "XXXX-2",
+   "model": "XXXX-2",
+   "camera": "XXXX-2"
 },
 {
-   "title": "3",
+   "title": "Proyecto 3",
    "description": [
-      "xd"
+      "XXXX-3"
    ],
-   "location": "xd",
-   "category": "Txd",
-   "model": "asd",
-   "camera": "as"
+   "location": "XXXX-3",
+   "category": "XXXX-3",
+   "model": "XXXX-3",
+   "camera": "XXXX-3"
 },
 {
-   "title": "4",
+   "title": "Proyecto 4",
    "description": [
-      "xd"
+      "XXXX-4"
    ],
-   "location": "xd",
-   "category": "Txd",
-   "model": "asd",
-   "camera": "as"
+   "location": "XXXX-4",
+   "category": "XXXX-4",
+   "model": "XXXX-4",
+   "camera": "XXXX-4"
 },
 {
-   "title": "5",
+   "title": "Proyecto 5",
    "description": [
-      "xd"
+      "XXXX-5"
    ],
-   "location": "xd",
-   "category": "Txd",
-   "model": "asd",
-   "camera": "as"
+   "location": "XXXX-5",
+   "category": "XXXX-5",
+   "model": "XXXX-5",
+   "camera": "XXXX-5"
+},
+{
+   "title": "Proyecto 6",
+   "description": [
+      "XXXX-6"
+   ],
+   "location": "XXXX-6",
+   "category": "XXXX-6",
+   "model": "XXXX-6",
+   "camera": "XXXX-6"
 }
 ]
