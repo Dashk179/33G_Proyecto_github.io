@@ -877,6 +877,14 @@ blockquote p {
 	width: 25% ;
 	padding: 20px 20px 0 0;
 }
+.gallery-item:nth-child(2) {
+    width: 50%;
+    padding: 20px 20px 0 0;
+}
+.gallery-item:nth-child(14) {
+    width: 50%;
+    padding: 20px 20px 0 0;
+}
 .hov_box {
 	position: relative;
 	overflow: hidden;
@@ -2354,6 +2362,18 @@ blockquote p {
 .filter-btn:hover .filt-title {
     margin:  8px 0 0 20px;
 }
+
+.gallery-item:nth-child(2) {
+    width: 66%;
+	padding: 74px 0;
+	float: left;
+}
+.gallery-item:nth-child(14) {
+    width: 66%;
+	padding: 7px 0;
+	float: left;
+}
+
 .gallery-items {
     width: 100%;
     padding:74px 0;
@@ -2579,6 +2599,14 @@ blockquote p {
 @media only screen and (max-width: 784px) {
 .gallery-item  {
 	width: 100%;
+	padding: 2px 0;
+}
+.gallery-item:nth-child(2) {
+    width: 100%;
+	padding: 2px 0;
+}
+.gallery-item:nth-child(14) {
+    width: 100%;
 	padding: 2px 0;
 }
 .gallery-filters a {
